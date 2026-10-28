@@ -1,0 +1,6 @@
+# Preserve release bytes so checksums survive checkout on Windows and POSIX.
+* -text
+*.gz binary
+*.pkl binary
+*.pdf binary
+*.png binary
